@@ -17,20 +17,20 @@ Kelas   : TI.21.C.1
 
 
 
-Cash.java
+# Cash.java
 
 
-public class Cash extends Payment {
-    private float cashTendered;
+    public class Cash extends Payment {
+        private float cashTendered;
 
-    public float getCashTendered() {
+        public float getCashTendered() {
         return cashTendered;
-    }
+        }
 
-    public void setCashTendered(float cashTendered) {
-        this.cashTendered = cashTendered;
+        public void setCashTendered(float cashTendered) {
+            this.cashTendered = cashTendered;
+     }
     }
-}
 
 
 

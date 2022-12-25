@@ -320,8 +320,8 @@ Kelas   : TI.21.C.1
         public static void main(String[] args) {
 
             Customer hasbi = new Customer();
-            rio.setName("Hasbi hasbullah");
-            rio.setAddress("Kp. Bulak Kunyit RT.001/RW.002 Desa Muktiwari");
+            hasbi.setName("Hasbi hasbullah");
+            hasbi.setAddress("Kp. Bulak Kunyit RT.001/RW.002 Desa Muktiwari");
             System.out.println("Pelanggan atas nama " + rio.getName() + " dipersilahkan masuk!");
             System.out.println("Pesanan atas nama " + rio.getName() + " siap dikirimkan ke alamat " + rio.getAddress());
 

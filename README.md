@@ -6,7 +6,9 @@ Praktikum8_
 # Tugas Kardinalitas
 
 Nama    : HASBI HASBULLAH
+
 NIM     : 312110094
+
 Kelas   : TI.21.C.1
 
 

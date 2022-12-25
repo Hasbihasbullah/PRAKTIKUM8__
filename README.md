@@ -319,8 +319,8 @@ Kelas   : TI.21.C.1
     public class Main {
         public static void main(String[] args) {
 
-            Customer rio = new Customer();
-            rio.setName("Rio Saputra");
+            Customer hasbi = new Customer();
+            rio.setName("Hasbi hasbullah");
             rio.setAddress("Kp. Bulak Kunyit RT.001/RW.002 Desa Muktiwari");
             System.out.println("Pelanggan atas nama " + rio.getName() + " dipersilahkan masuk!");
             System.out.println("Pesanan atas nama " + rio.getName() + " siap dikirimkan ke alamat " + rio.getAddress());
@@ -370,7 +370,7 @@ Kelas   : TI.21.C.1
             System.out.println();
 
             Check check = new Check();
-            check.setName("Rio Saputra");
+            check.setName("Hasbi hasbullah");
             check.setBankID("12341234");
             check.authorized();
             gofood.addCheckList(check);

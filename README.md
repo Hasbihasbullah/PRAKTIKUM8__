@@ -2,7 +2,7 @@
 Praktikum8_
 
 
-# Pertemuan 13
+# Pertemuan 12
 # Tugas Kardinalitas
 
 Nama    : HASBI HASBULLAH
